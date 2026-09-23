@@ -2,6 +2,8 @@
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=fritz-bautista&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=fritz-bautista&layout=compact&langs_count=6&theme=dark_github)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=fritz-bautista&custom_title=Check%20out%20my%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)](https://github-stats-extended.vercel.app/api?username=fritz-bautista&custom_title=Check%20out%20my%20Stats&show_icons=true&include_all_commits=true&theme=dark_github)
+
 <!--
 **fritz-bautista/fritz-bautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
