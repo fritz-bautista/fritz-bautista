@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=fritz-bautista&layout=compact&langs_count=6&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=fritz-bautista&layout=compact&langs_count=6&theme=dark_github)
+
 <!--
 **fritz-bautista/fritz-bautista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
