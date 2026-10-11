@@ -3,21 +3,21 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fritz-bautista&label=Profile%20views&color=0e75b6&style=flat" alt="fritz-bautista" /> </p>
 
-- 🔭 I’m currently working on **Restaurant Community App**
+- I’m currently working on **Restaurant Community App**
 
-- 🌱 I’m currently learning **.NET and Spring Boot**
+- I’m currently learning **.NET and Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-bautista.vercel.app/](https://my-portfolio-bautista.vercel.app/)
+- All of my projects are available at [https://my-portfolio-bautista.vercel.app/](https://my-portfolio-bautista.vercel.app/)
 
-- 📫 How to reach me **fritzbautista100@gmail.com**
+- How to reach me **fritzbautista100@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1iam0egr4bRsvlzWifKGGkh-iWanIdU8P/view?usp=sharing](https://drive.google.com/file/d/1iam0egr4bRsvlzWifKGGkh-iWanIdU8P/view?usp=sharing)
+- Know about my experiences [https://drive.google.com/file/d/1iam0egr4bRsvlzWifKGGkh-iWanIdU8P/view?usp=sharing](https://drive.google.com/file/d/1iam0egr4bRsvlzWifKGGkh-iWanIdU8P/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fritz harold bautista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fritz harold bautista" height="30" width="40" /></a>
-<a href="https://fb.com/fritz harold bautista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fritz harold bautista" height="30" width="40" /></a>
-<a href="https://www.behance.net/fritz harold bautista" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fritz harold bautista" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fritz-harold-bautista-27a83a37b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fritz harold bautista" height="30" width="40" /></a>
+<a href="https://fb.com/Fritz.Bautista.ThePB100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fritz harold bautista" height="30" width="40" /></a>
+<a href="https://www.behance.net/fritzbautistagd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="fritz harold bautista" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
